@@ -1,0 +1,19 @@
+# Node
+**/node_modules
+**/.env
+**/.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+
+# Docker
+**/.dockerignore
+
+# Next.js (for later)
+**/.next
+**/out
