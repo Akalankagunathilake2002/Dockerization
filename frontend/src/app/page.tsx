@@ -60,7 +60,7 @@ export default function Home() {
           <div className="space-y-2">
             <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs text-white/80">
               <Sparkles className="h-4 w-4" />
-              Welcome to Task Dashboard
+              Welcome to Task dashboard using dockerization with NEXT.JS
             </div>
 
             <h1 className="text-3xl font-extrabold tracking-tight sm:text-4xl">
